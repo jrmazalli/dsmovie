@@ -8,7 +8,6 @@ function Listing() {
 
             <div className="container">
 
-
                 <div className="row">
                     <div className="col-sm-6 col-lg-4 col-xl-3 mb-3">
                         <MovieCard />
@@ -43,12 +42,7 @@ function Listing() {
                     </div>
                 </div>
 
-     
-
-
-
             </div>
-
 
         </>
     );
