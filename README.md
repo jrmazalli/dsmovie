@@ -3,4 +3,4 @@
 <br>
 
 
-[![Image](https://github.com/jrmazalli/dsmovie/blob/main/frontend/src/assets/img/dsmovie.png?raw=true "tela inicial")](https://drive.google.com/file/d/1gDOhqEm6OSpfon64kLBXXY-n-bRVDibd/view)
+[![Image](https://github.com/jrmazalli/dsmovie/blob/main/frontend/src/assets/img/dsmovie.png?raw=true "tela inicial")]()
